@@ -1,0 +1,15 @@
+K 18
+svn:global-ignores
+V 6
+Debug
+
+K 10
+svn:ignore
+V 101
+.ignoresvn
+.git/
+GameLicDll/GameLicServer/bin/
+GameLicDll/GameLicServer/bin/Debug/GameLicServer.exe
+
+
+END
