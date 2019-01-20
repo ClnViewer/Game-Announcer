@@ -1,3 +1,5 @@
+.svn
+.gitignore
 CoCAnnounce.dll
 CoCAnnounce.exe
 Publish/*
