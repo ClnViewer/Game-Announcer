@@ -1,7 +1,7 @@
 10
 
 dir
-564
+565
 file:///home/admin/main_daemon/__SVN__/CoCAnouncer/App/GUI/bin
 file:///home/admin/main_daemon/__SVN__/CoCAnouncer
 
@@ -25,43 +25,6 @@ has-props
 
 
 bdebf6de-e8e8-4772-9ee7-30033b78afc3
-
-CoCAnnounce.dll
-file
-
-
-
-
-2019-01-20T14:39:15.608999Z
-c1ce9d430fa992fbc1f2d52d656513c4
-2019-01-20T14:39:14.897321Z
-564
-den68
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8704
-
-Publish
-dir
 
 UnInstall.exe
 file
@@ -167,4 +130,41 @@ has-props
 
 
 5206
+
+CoCAnnounce.dll
+file
+
+
+
+
+2019-01-20T14:39:15.608999Z
+c1ce9d430fa992fbc1f2d52d656513c4
+2019-01-20T14:39:14.897321Z
+564
+den68
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8704
+
+Publish
+dir
 
