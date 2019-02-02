@@ -1,9 +1,9 @@
 .svn
 .gitignore
+*.txt
 CoCAnnounce.dll
 CoCAnnounce.exe
+UnInstall.exe
+setup.exe
 Publish/*
 Release/*
-UnInstall.exe
-export-text.txt
-setup.exe
