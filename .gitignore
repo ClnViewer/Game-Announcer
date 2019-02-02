@@ -1,9 +1,11 @@
 .svn
 .gitignore
-*.txt
 CoCAnnounce.dll
 CoCAnnounce.exe
 UnInstall.exe
 setup.exe
 Publish/*
 Release/*
+export-clanannouncer.txt
+export-gotoclan.txt
+export-text.txt
